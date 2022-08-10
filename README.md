@@ -1,0 +1,2 @@
+# privacy
+all app privacy
